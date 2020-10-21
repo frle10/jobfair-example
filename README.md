@@ -12,11 +12,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper lacin
 
 ## Third section
 
-<<<<<<< HEAD
 I am on a workshop, mama!
 
 ##THRID SECTION
 ovo pisem ja
-=======
 I just added another section!!! Wohooo!!! :D
->>>>>>> babe481... Added third section.
